@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-Tham khảo ngay những dự án tuyệt vời nhất với nền tảng của RETI. Nền tảng công nghệ BĐS hàng đầu
+Tham khảo ngay những dự án tuyệt vời nhất với nền tảng của RETI. Nền tảng công nghệ BĐS hàng đầu, Click để xem ngay
